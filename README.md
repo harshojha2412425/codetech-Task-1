@@ -5,6 +5,7 @@
 **Duration:** August to September 2024
 **Mentor:** SRAVANI GOUNI
 
+
 ## Overview of the Project
 
 ### Project: Exploratory Data Analysis (EDA) on World Population Dataset
