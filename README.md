@@ -8,7 +8,7 @@
 
 **Duration:** August to September 2024
 
-**Mentor:** SRAVANI GOUNI
+**Mentor:** MUZAMMIL AHMED
 
 
 ## Overview of the Project
