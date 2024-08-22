@@ -1,8 +1,13 @@
 **Name:** Harsh Ojha
+
 **Company:** CODETECH IT SOLUTIONS
+
 **ID:** CT08DS6948
+
 **Domain:** Data Analytics
+
 **Duration:** August to September 2024
+
 **Mentor:** SRAVANI GOUNI
 
 
