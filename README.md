@@ -21,3 +21,6 @@ The goal of this project is to perform Exploratory Data Analysis (EDA) on the Ti
 -**Pandas**: For data manipulation and exploration.
 -**NumPy**: For numerical computations.
 -**Matplotlib & Seaborn**: For data visualization.
+
+### Outputs 
+
