@@ -32,3 +32,5 @@ The goal of this project is to perform Exploratory Data Analysis (EDA) on the Ti
 
 <img width="960" alt="Screenshot 2024-08-21 210207" src="https://github.com/user-attachments/assets/197376df-0cab-4d9e-b259-bd6f8396bd8e">
 
+<img width="960" alt="Screenshot 2024-08-21 210217" src="https://github.com/user-attachments/assets/62282e98-d68c-4332-8641-ffa76ff0795a">
+
